@@ -11,3 +11,5 @@ Space requirements for the file itself: 2.24 GB (Why is it so large?). The exe f
 
 # Commentary
 Coding in Claude is fun! It auto-completes most of the logic I can't be bothered to write on my own and helps me learn along the way, especially how scant documentation in Egui unfortunately is. Although in the future, I'll try and rely less on Claude to try and figure out how to style and center my objects correctly, moreso referencing this game instead. But to learn how to use AI will probably be common place in any job (assuming that I get one!)
+
+But, the need to code by hand will always be present, in order to correct Claude (especially the free version) in its mistakes. For example, I had to continuously correct Cluade in its usage of outdated functions.
